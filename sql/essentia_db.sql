@@ -42,7 +42,7 @@ CREATE TABLE `clientes` (
 --
 
 INSERT INTO `clientes` (`cli_id`, `cli_nome`, `cli_email`, `cli_telefone`, `cli_path_foto`, `cli_data_cad`) VALUES
-(1, 'Leonardo Oliveira', 'leonardo@essentia.com.br', '62985197925', 'App/img/img-20190717-5d2f2da0ce4d55472x3648_px_Code_coffee_computer_Computer_Screen_Keyboards_Languages_laptop-1288593.jpg', '2019-07-17 11:16:00');
+(1, 'Leonardo Oliveira', 'leonardo@essentia.com.br', '62985197925', '', '2019-07-17 11:16:00');
 
 --
 -- Indexes for dumped tables

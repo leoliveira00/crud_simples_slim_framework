@@ -1,5 +1,1 @@
-1) Instalar Composer
-	Instruções: https://getcomposer.org/download/
-
-2) Instalar Slim Framework
-	Instruções: http://www.slimframework.com/docs/v3/start/installation.html
+﻿Crie um banco de dados chamado essentia_db e execute o conteúdo de essentia_db.sql. Só isso!
