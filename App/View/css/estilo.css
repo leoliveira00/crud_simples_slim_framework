@@ -1,0 +1,20 @@
+#container{
+   width: 900px;
+}
+
+table{
+	width: 100%;
+	border-spacing: 0px;
+}
+table tr td {
+	padding: 5px 5px 5px 5px;
+	font-size: 15px;
+	color: rgb(37, 37, 37);
+} 
+table tr.alter td {
+	background-color: rgb(227, 239, 255);
+}
+.cabecalho{
+	font-size: 13px !important;
+	text-align: left;
+}
